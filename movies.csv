@@ -1,0 +1,51 @@
+Movie_ID,Title,Genre,Release_Year,Rating,Views,Reviews,Runtime,Director,Language,Description,Image
+1,Inception,Sci-Fi,2010,8.8,420,15200,148,C. Nolan,English,"A sci-fi film from 2010, directed by C. Nolan, exploring bold ideas with a 8.8 rating on Cinemora.",inception.jpg
+2,Interstellar,Sci-Fi,2014,8.7,510,18300,169,C. Nolan,English,"A sci-fi film from 2014, directed by C. Nolan, exploring bold ideas with a 8.7 rating on Cinemora.",interstellar.jpg
+3,Dune,Sci-Fi,2021,8.0,380,12100,155,D. Villeneuve,English,"A sci-fi film from 2021, directed by D. Villeneuve, exploring bold ideas with a 8.0 rating on Cinemora.",dune.jpg
+4,Dune: Part Two,Sci-Fi,2024,8.5,340,9900,166,D. Villeneuve,English,"A sci-fi film from 2024, directed by D. Villeneuve, exploring bold ideas with a 8.5 rating on Cinemora.",dune_part_two.jpg
+5,The Dark Knight,Action,2008,9.0,610,21000,152,C. Nolan,English,"A action film from 2008, directed by C. Nolan, exploring bold ideas with a 9.0 rating on Cinemora.",the_dark_knight.jpg
+6,Oppenheimer,Drama,2023,8.4,400,13500,180,C. Nolan,English,"A drama film from 2023, directed by C. Nolan, exploring bold ideas with a 8.4 rating on Cinemora.",oppenheimer.jpg
+7,Parasite,Thriller,2019,8.6,290,11200,132,Bong Joon-ho,Korean,"A thriller film from 2019, directed by Bong Joon-ho, exploring bold ideas with a 8.6 rating on Cinemora.",parasite.jpg
+8,The Grand Budapest Hotel,Comedy,2014,8.1,180,6400,99,W. Anderson,English,"A comedy film from 2014, directed by W. Anderson, exploring bold ideas with a 8.1 rating on Cinemora.",the_grand_budapest_hotel.jpg
+9,Whiplash,Drama,2014,8.5,220,8100,106,D. Chazelle,English,"A drama film from 2014, directed by D. Chazelle, exploring bold ideas with a 8.5 rating on Cinemora.",whiplash.jpg
+10,La La Land,Drama,2016,8.0,260,9200,128,D. Chazelle,English,"A drama film from 2016, directed by D. Chazelle, exploring bold ideas with a 8.0 rating on Cinemora.",la_la_land.jpg
+11,Mad Max: Fury Road,Action,2015,8.1,350,10400,120,G. Miller,English,"A action film from 2015, directed by G. Miller, exploring bold ideas with a 8.1 rating on Cinemora.",mad_max_fury_road.jpg
+12,Joker,Drama,2019,8.4,470,16800,122,T. Phillips,English,"A drama film from 2019, directed by T. Phillips, exploring bold ideas with a 8.4 rating on Cinemora.",joker.jpg
+13,Get Out,Thriller,2017,7.7,210,7300,104,J. Peele,English,"A thriller film from 2017, directed by J. Peele, exploring bold ideas with a 7.7 rating on Cinemora.",get_out.jpg
+14,Everything Everywhere All at Once,Adventure,2022,7.8,190,6900,139,Daniels,English,"A adventure film from 2022, directed by Daniels, exploring bold ideas with a 7.8 rating on Cinemora.",everything_everywhere_all_at_once.jpg
+15,Spider-Man: Into the Spider-Verse,Animation,2018,8.4,330,10900,117,P. Ramsey,English,"A animation film from 2018, directed by P. Ramsey, exploring bold ideas with a 8.4 rating on Cinemora.",spider_man_into_the_spider_verse.jpg
+16,Coco,Animation,2017,8.4,300,9700,105,L. Unkrich,English,"A animation film from 2017, directed by L. Unkrich, exploring bold ideas with a 8.4 rating on Cinemora.",coco.jpg
+17,Spirited Away,Animation,2001,8.6,280,9100,125,H. Miyazaki,Japanese,"A animation film from 2001, directed by H. Miyazaki, exploring bold ideas with a 8.6 rating on Cinemora.",spirited_away.jpg
+18,Your Name,Animation,2016,8.4,250,8700,106,M. Shinkai,Japanese,"A animation film from 2016, directed by M. Shinkai, exploring bold ideas with a 8.4 rating on Cinemora.",your_name.jpg
+19,The Shawshank Redemption,Drama,1994,9.3,640,24500,142,F. Darabont,English,"A drama film from 1994, directed by F. Darabont, exploring bold ideas with a 9.3 rating on Cinemora.",the_shawshank_redemption.jpg
+20,Fight Club,Drama,1999,8.8,480,17600,139,D. Fincher,English,"A drama film from 1999, directed by D. Fincher, exploring bold ideas with a 8.8 rating on Cinemora.",fight_club.jpg
+21,Pulp Fiction,Thriller,1994,8.9,500,19100,154,Q. Tarantino,English,"A thriller film from 1994, directed by Q. Tarantino, exploring bold ideas with a 8.9 rating on Cinemora.",pulp_fiction.jpg
+22,The Matrix,Sci-Fi,1999,8.7,460,16700,136,Wachowskis,English,"A sci-fi film from 1999, directed by Wachowskis, exploring bold ideas with a 8.7 rating on Cinemora.",the_matrix.jpg
+23,Gladiator,Action,2000,8.5,330,11700,155,R. Scott,English,"A action film from 2000, directed by R. Scott, exploring bold ideas with a 8.5 rating on Cinemora.",gladiator.jpg
+24,Avatar,Sci-Fi,2009,7.9,590,20200,162,J. Cameron,English,"A sci-fi film from 2009, directed by J. Cameron, exploring bold ideas with a 7.9 rating on Cinemora.",avatar.jpg
+25,Avatar: The Way of Water,Sci-Fi,2022,7.6,310,8600,192,J. Cameron,English,"A sci-fi film from 2022, directed by J. Cameron, exploring bold ideas with a 7.6 rating on Cinemora.",avatar_the_way_of_water.jpg
+26,Titanic,Drama,1997,7.9,550,19800,195,J. Cameron,English,"A drama film from 1997, directed by J. Cameron, exploring bold ideas with a 7.9 rating on Cinemora.",titanic.jpg
+27,The Lord of the Rings: The Fellowship of the Ring,Fantasy,2001,8.9,470,16400,178,P. Jackson,English,"A fantasy film from 2001, directed by P. Jackson, exploring bold ideas with a 8.9 rating on Cinemora.",the_lord_of_the_rings_the_fellowship_of_the_ring.jpg
+28,The Lord of the Rings: The Two Towers,Fantasy,2002,8.8,440,15100,179,P. Jackson,English,"A fantasy film from 2002, directed by P. Jackson, exploring bold ideas with a 8.8 rating on Cinemora.",the_lord_of_the_rings_the_two_towers.jpg
+29,The Lord of the Rings: The Return of the King,Fantasy,2003,9.0,480,17000,201,P. Jackson,English,"A fantasy film from 2003, directed by P. Jackson, exploring bold ideas with a 9.0 rating on Cinemora.",the_lord_of_the_rings_the_return_of_the_king.jpg
+30,Harry Potter and the Sorcerer's Stone,Fantasy,2001,7.6,400,13200,152,C. Columbus,English,"A fantasy film from 2001, directed by C. Columbus, exploring bold ideas with a 7.6 rating on Cinemora.",harry_potter_and_the_sorcerer_s_stone.jpg
+31,The Hunger Games,Adventure,2012,7.2,300,9600,142,G. Ross,English,"A adventure film from 2012, directed by G. Ross, exploring bold ideas with a 7.2 rating on Cinemora.",the_hunger_games.jpg
+32,Guardians of the Galaxy,Adventure,2014,8.0,380,12800,121,J. Gunn,English,"A adventure film from 2014, directed by J. Gunn, exploring bold ideas with a 8.0 rating on Cinemora.",guardians_of_the_galaxy.jpg
+33,Black Panther,Action,2018,7.3,400,13900,134,R. Coogler,English,"A action film from 2018, directed by R. Coogler, exploring bold ideas with a 7.3 rating on Cinemora.",black_panther.jpg
+34,Avengers: Endgame,Action,2019,8.4,620,21500,181,Russo Bros,English,"A action film from 2019, directed by Russo Bros, exploring bold ideas with a 8.4 rating on Cinemora.",avengers_endgame.jpg
+35,Avengers: Infinity War,Action,2018,8.4,590,20200,149,Russo Bros,English,"A action film from 2018, directed by Russo Bros, exploring bold ideas with a 8.4 rating on Cinemora.",avengers_infinity_war.jpg
+36,Doctor Strange,Fantasy,2016,7.5,290,9400,115,S. Derrickson,English,"A fantasy film from 2016, directed by S. Derrickson, exploring bold ideas with a 7.5 rating on Cinemora.",doctor_strange.jpg
+37,The Social Network,Drama,2010,7.7,240,8300,120,D. Fincher,English,"A drama film from 2010, directed by D. Fincher, exploring bold ideas with a 7.7 rating on Cinemora.",the_social_network.jpg
+38,Her,Drama,2013,8.0,160,5700,126,S. Jonze,English,"A drama film from 2013, directed by S. Jonze, exploring bold ideas with a 8.0 rating on Cinemora.",her.jpg
+39,Blade Runner 2049,Sci-Fi,2017,8.0,250,8200,164,D. Villeneuve,English,"A sci-fi film from 2017, directed by D. Villeneuve, exploring bold ideas with a 8.0 rating on Cinemora.",blade_runner_2049.jpg
+40,Arrival,Sci-Fi,2016,7.9,230,7600,116,D. Villeneuve,English,"A sci-fi film from 2016, directed by D. Villeneuve, exploring bold ideas with a 7.9 rating on Cinemora.",arrival.jpg
+41,No Country for Old Men,Thriller,2007,8.2,260,8900,122,Coen Bros,English,"A thriller film from 2007, directed by Coen Bros, exploring bold ideas with a 8.2 rating on Cinemora.",no_country_for_old_men.jpg
+42,Django Unchained,Action,2012,8.4,360,12300,165,Q. Tarantino,English,"A action film from 2012, directed by Q. Tarantino, exploring bold ideas with a 8.4 rating on Cinemora.",django_unchained.jpg
+43,Once Upon a Time in Hollywood,Drama,2019,7.6,220,7100,161,Q. Tarantino,English,"A drama film from 2019, directed by Q. Tarantino, exploring bold ideas with a 7.6 rating on Cinemora.",once_upon_a_time_in_hollywood.jpg
+44,Knives Out,Thriller,2019,7.9,270,9000,130,R. Johnson,English,"A thriller film from 2019, directed by R. Johnson, exploring bold ideas with a 7.9 rating on Cinemora.",knives_out.jpg
+45,The Grand Adventure of Toy Story,Animation,1995,8.3,320,10700,81,J. Lasseter,English,"A animation film from 1995, directed by J. Lasseter, exploring bold ideas with a 8.3 rating on Cinemora.",the_grand_adventure_of_toy_story.jpg
+46,Finding Nemo,Animation,2003,8.1,300,10100,100,A. Stanton,English,"A animation film from 2003, directed by A. Stanton, exploring bold ideas with a 8.1 rating on Cinemora.",finding_nemo.jpg
+47,Up,Animation,2009,8.3,310,10400,96,P. Docter,English,"A animation film from 2009, directed by P. Docter, exploring bold ideas with a 8.3 rating on Cinemora.",up.jpg
+48,Inside Out,Animation,2015,8.1,290,9600,95,P. Docter,English,"A animation film from 2015, directed by P. Docter, exploring bold ideas with a 8.1 rating on Cinemora.",inside_out.jpg
+49,WALL-E,Animation,2008,8.4,300,9900,98,A. Stanton,English,"A animation film from 2008, directed by A. Stanton, exploring bold ideas with a 8.4 rating on Cinemora.",wall_e.jpg
+50,The Prestige,Thriller,2006,8.5,300,10600,130,C. Nolan,English,"A thriller film from 2006, directed by C. Nolan, exploring bold ideas with a 8.5 rating on Cinemora.",the_prestige.jpg
